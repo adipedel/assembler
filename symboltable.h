@@ -2,6 +2,7 @@
 #define SYMBOLTABLE_H
 #define MAX_LINE 1000
 
+#include "memorylist.h"
 
 typedef struct symbol_table			/*creating a linked list to store the symbols*/
 	{
