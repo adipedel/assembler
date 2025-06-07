@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "symboltable.h": "c"
+        "symboltable.h": "c",
+        "secondpass.h": "c"
     }
 }
